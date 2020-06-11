@@ -1,0 +1,11 @@
+Installing library in C:\Users\ALEX\Desktop\Haskell\project\snake-game\.cabal-sandbox\x86_64-windows-ghc-8.6.5\snake-game-0.1.0.0-DaHFJox3Znb1xH7CXrhE8d
+Installing executable snake-game-exe in C:\Users\ALEX\Desktop\Haskell\project\snake-game\.cabal-sandbox\bin
+aths_snake_game.hs, dist\dist-sandbox-d158e405\build\Paths_snake_game.o )
+Preprocessing executable 'snake-game-exe' for snake-game-0.1.0.0..
+Building executable 'snake-game-exe' for snake-game-0.1.0.0..
+[1 of 4] Compiling Utils            ( src\Utils.hs, dist\dist-sandbox-d158e405\build\snake-game-exe\snake-game-exe-tmp\Utils.o )
+[2 of 4] Compiling GameLogic        ( src\GameLogic.hs, dist\dist-sandbox-d158e405\build\snake-game-exe\snake-game-exe-tmp\GameLogic.o )
+[3 of 4] Compiling Rendering        ( src\Rendering.hs, dist\dist-sandbox-d158e405\build\snake-game-exe\snake-game-exe-tmp\Rendering.o )
+[4 of 4] Compiling Main             ( src\Main.hs, dist\dist-sandbox-d158e405\build\snake-game-exe\snake-game-exe-tmp\Main.o )
+Linking dist/dist-sandbox-d158e405\build\snake-game-exe\snake-game-exe.exe ...
+cabal: Leaving directory '.'
